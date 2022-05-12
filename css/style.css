@@ -784,15 +784,17 @@ img {
 }
 
 .support__title {
-  font-size: 72px;
   font-weight: 700;
-  color: #30AF6E;
+  font-size: 43px;
+  line-height: 54px;
   margin-bottom: 16px;
 }
 
 .support__subtitle {
-  font-size: 22px;
-  font-weight: 700;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  color: rgba(19, 27, 99, 0.5);
 }
 
 .form__input {
@@ -803,13 +805,13 @@ img {
   padding: 16px;
   margin-top: 20px;
   font-size: 16px;
-  color: #ffffff;
-  background-color: #0d1218;
+  color: #131B63;
+  background-color: #f2f1ff;
 }
 
 .form__button {
   border-radius: 16px;
-  background: #24bb6d;
+  background: #8B7FFE;
   color: #FFFFFF;
   width: 105%;
   padding: 16px;
@@ -824,8 +826,8 @@ img {
 }
 
 .form__button:hover {
-  -webkit-box-shadow: 0px 8px 30px rgba(34, 202, 41, 0.25);
-          box-shadow: 0px 8px 30px rgba(34, 202, 41, 0.25);
+  -webkit-box-shadow: 0px 8px 30px rgba(139, 127, 254, 0.25);
+          box-shadow: 0px 8px 30px rgba(139, 127, 254, 0.25);
 }
 
 textarea {
