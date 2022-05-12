@@ -592,7 +592,7 @@ img {
 
 @media (max-width: 768px) {
   .main {
-    padding: 80px 0px;
+    padding: 80px 0px 80px 15px;
   }
   .main-wrap {
     -webkit-box-orient: vertical;
